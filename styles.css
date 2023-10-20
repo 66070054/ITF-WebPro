@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(37, 126, 37);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    border: 10px solid white;
+    float: right;
+    width: 25%;
+    border-radius: 20px;
+}
+
+.content-1 {
+    display: inline-block;
+    width: 25%;
+    margin-left: 20px;
+    margin-right: 20px;
+    background: white;
+    border-radius: 20px;
+    padding: 0px 10px 0px 10px;
+    font-size: large;
+    box-shadow: 12px 12px 12px black;
+}
