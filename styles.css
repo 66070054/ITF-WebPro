@@ -3,7 +3,7 @@ body {
 }
 
 img {
-    border: 10px solid white;
+    border: 10px solid rgb(216, 84, 84);
     float: right;
     width: 25%;
     border-radius: 20px;
@@ -17,7 +17,7 @@ img {
     margin-right: 20px;
     background: white;
     border-radius: 20px;
-    padding: 0px 5px 0px 5px;
+    padding: 0px 5px 15px 5px;
     font-size: large;
     box-shadow: 12px 5px 12px black;
 }
